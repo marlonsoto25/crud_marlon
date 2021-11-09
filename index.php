@@ -12,7 +12,7 @@
         <div id="div1" class="container">
             <br>
             <div id="div2">
-                <img src="IMAGENES/banner.png">
+                <img src="IMAGENES/banner.jpg">
                 <div id="div3">
                     <form id="formulario" method="post" action="menu.php">
                         <br>
@@ -27,7 +27,9 @@
                         <input type="password" name="clave" value="" required/>
                         <br><br>
                         <input class="btn btn-primary" type="submit" value="Iniciar sesión">
+                    
                         <br><br>
+                        <h1>marlon soto</h1>
                     </form>
                 </div>
             </div>

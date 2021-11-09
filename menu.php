@@ -24,7 +24,7 @@ $resultado=consulta($miconexion,"select * from usuarios where usua_nomuser='{$_S
         <div id="div1" class="container">
             <br>
             <div id="div2">
-                <?php if($resultado->num_rows>0) { ?> <img src="IMAGENES/banner2.png"> <?php } ?>
+                <?php if($resultado->num_rows>0) { ?> <img src="IMAGENES/banner22.png"> <?php } ?>
                 <div id="div3">
                     <?php
                       if($resultado->num_rows>0)
@@ -62,6 +62,7 @@ $resultado=consulta($miconexion,"select * from usuarios where usua_nomuser='{$_S
                     $miconexion->close();
                      ?>
                     <br><br>
+                    <h1>marlon soto</h1>
                 </div>
             </div>
         </div>
